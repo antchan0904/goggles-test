@@ -4,7 +4,7 @@
 ! author: ant
 ! avatar: #b51d1d
 
-$downrank,site=wikipedia.org
+$downrank=10,site=wikipedia.org
 
 $discard,site=google.com
 $discard,site=youtube.com
