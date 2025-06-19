@@ -1,4 +1,4 @@
-! name: ant personal short
+! name: ant personal wiki first
 ! description: Rerank results to remove pages found on the top 1,000 most-viewed websites. List of top sites drawn from tranco-list.eu. Up-ranked sites not vetted or endorsed by Brave.
 ! public: true
 ! author: ant
