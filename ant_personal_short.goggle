@@ -1,8 +1,8 @@
-! name: 1k short
+! name: ant personal short
 ! description: Rerank results to remove pages found on the top 1,000 most-viewed websites. List of top sites drawn from tranco-list.eu. Up-ranked sites not vetted or endorsed by Brave.
 ! public: true
-! author: Goggles 101
-! avatar: #0a7c41
+! author: ant
+! avatar: #b51d1d
 
 $boost=1,site=wikipedia.org
 $boost=1,site=wikimedia.org
