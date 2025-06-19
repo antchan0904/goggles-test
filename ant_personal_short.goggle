@@ -4,8 +4,8 @@
 ! author: ant
 ! avatar: #b51d1d
 
+$boost=4,site=wikipedia.org
 $downrank=10,site=wikipedia.org
-
 $discard,site=google.com
 $discard,site=youtube.com
 $discard,site=facebook.com
