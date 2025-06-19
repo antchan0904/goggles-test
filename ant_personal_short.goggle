@@ -4,6 +4,9 @@
 ! author: Goggles 101
 ! avatar: #0a7c41
 
+$boost=1,site=wikipedia.org
+$boost=1,site=wikimedia.org
+
 $discard,site=google.com
 $discard,site=youtube.com
 $discard,site=facebook.com
